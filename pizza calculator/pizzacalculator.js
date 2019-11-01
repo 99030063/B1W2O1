@@ -7,7 +7,7 @@
 // de linebreak zorgt voor een nieuwe regel
 var linebreak = "<br>"
 var pickSize;
-var valid = false
+var valid = false;
 var pizzaSize;
 var pizzaAmmountSmall=0;
 var pizzaAmmountMedium=0;
